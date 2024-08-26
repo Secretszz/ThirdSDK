@@ -1,12 +1,3 @@
-[submodule "XhsApi"]
-	path = XhsApi
-	url = https://github.com/Secretszz/XhsApi.git
-[submodule "InstagramApi"]
-	path = InstagramApi
-	url = https://github.com/Secretszz/InstagramApi.git
-[submodule "FacebookApi"]
-	path = FacebookApi
-	url = https://github.com/Secretszz/FacebookApi.git
 [submodule "WxApi"]
 	path = WxApi
 	url = https://github.com/Secretszz/WxApi.git
