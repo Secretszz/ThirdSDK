@@ -7,3 +7,6 @@
 [submodule "FacebookApi"]
 	path = FacebookApi
 	url = https://github.com/Secretszz/FacebookApi.git
+[submodule "WxApi"]
+	path = WxApi
+	url = https://github.com/Secretszz/WxApi.git
