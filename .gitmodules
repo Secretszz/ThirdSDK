@@ -10,6 +10,9 @@
 [submodule "XhsApi"]
 	path = XhsApi
 	url = https://github.com/Secretszz/ThirdSDK_XhsApi.git
-[submodule "ThirdSDK_Common"]
+[submodule "Common"]
 	path = Common
 	url = https://github.com/Secretszz/ThirdSDK_Common.git
+[submodule "QQApi"]
+	path = QQApi
+	url = https://github.com/Secretszz/ThirdSDK_QQApi.git
