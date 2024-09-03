@@ -1,15 +1,15 @@
 [submodule "WxApi"]
 	path = WxApi
-	url = https://github.com/Secretszz/WxApi.git
+	url = https://github.com/Secretszz/ThirdSDK_WxApi.git
 [submodule "InstagramApi"]
 	path = InstagramApi
-	url = https://github.com/Secretszz/InstagramApi.git
+	url = https://github.com/Secretszz/ThirdSDK_InstagramApi.git
 [submodule "FacebookApi"]
 	path = FacebookApi
-	url = https://github.com/Secretszz/FacebookApi.git
+	url = https://github.com/Secretszz/ThirdSDK_FacebookApi.git
 [submodule "XhsApi"]
 	path = XhsApi
-	url = https://github.com/Secretszz/XhsApi.git
+	url = https://github.com/Secretszz/ThirdSDK_XhsApi.git
 [submodule "ThirdSDK_Common"]
-	path = ThirdSDK_Common
+	path = Common
 	url = https://github.com/Secretszz/ThirdSDK_Common.git
