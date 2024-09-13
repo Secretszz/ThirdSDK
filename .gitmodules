@@ -16,3 +16,6 @@
 [submodule "QQApi"]
 	path = QQApi
 	url = https://github.com/Secretszz/ThirdSDK_QQApi.git
+[submodule "AliApi"]
+	path = AliApi
+	url = https://github.com/Secretszz/ThirdSDK_AliApi.git
