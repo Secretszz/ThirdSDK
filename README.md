@@ -6,8 +6,7 @@
 
 不熟悉从url安装package的请看[install from giturl](https://docs.unity3d.com/Manual/upm-ui-giturl.html)。
 
-## 微信SDK适配器链接
-https://github.com/Secretszz/WxApi.git
+## 适配器基础包
+[Common](https://github.com/Secretszz/ThirdSDK_Common.git)
 
-## 小红书SDK适配器链接
-https://github.com/Secretszz/XhsApi.git
+先下载基础包，然后通过设置界面下载其余包
